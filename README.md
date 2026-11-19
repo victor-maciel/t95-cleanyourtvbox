@@ -33,3 +33,7 @@ nomes de pacote: os prompts mandam o assistente investigar a sua box, não copia
 - Ferramentas e regras de segurança: [CleanYourTV](https://github.com/Gathin23/cleanyourtv) (MIT).
 - Tela inicial com recomendações: [CleanYourTV UI](https://github.com/matheus-caldeira/cleanyourtv-ui), de
   matheus-caldeira, com dados do [TMDB](https://www.themoviedb.org). Este projeto não é endossado pelo TMDB.
+
+## Licença
+
+[MIT](LICENSE): use, copie e adapte à vontade, mantendo o aviso de copyright.
